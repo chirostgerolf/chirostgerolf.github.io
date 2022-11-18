@@ -5472,6 +5472,9 @@ a {
 .cid-sJhBKLlMfu .mbr-text {
   color: #ffffff;
 }
+.cid-sJhBKLlMfu .mbr-text UL {
+  text-align: left;
+}
 .cid-sqUqf7Atz4 {
   padding-top: 5rem;
   padding-bottom: 5rem;
