@@ -3488,52 +3488,6 @@ a {
 .cid-snT1PJxY2H .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-snT453w8P9 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #0b0549;
-}
-.cid-snT453w8P9 .top-line {
-  display: flex;
-  justify-content: space-between;
-}
-.cid-snT453w8P9 .mbr-section-title,
-.cid-snT453w8P9 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-snT453w8P9 .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-snT453w8P9 .card-wrapper {
-  border-radius: 4px;
-  background-color: #fafafa;
-}
-.cid-snT453w8P9 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-snT453w8P9 .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-snT453w8P9 .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-snT453w8P9 .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-snT453w8P9 .mbr-section-title {
-  color: #ffffff;
-}
-.cid-snT453w8P9 .mbr-section-subtitle {
-  color: #e6d72d;
-}
 .cid-snT9aybUAt {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -3603,6 +3557,55 @@ a {
 }
 .cid-snTe3egVOM .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-snT453w8P9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #0b0549;
+}
+.cid-snT453w8P9 .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-snT453w8P9 .mbr-section-title,
+.cid-snT453w8P9 .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-snT453w8P9 .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-snT453w8P9 .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+.cid-snT453w8P9 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-snT453w8P9 .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-snT453w8P9 .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-snT453w8P9 .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-snT453w8P9 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-snT453w8P9 .mbr-section-subtitle {
+  color: #e6d72d;
+}
+.cid-snT453w8P9 .card-title {
+  text-align: left;
 }
 .cid-snTi7TuzI6 {
   padding-top: 5rem;
